@@ -1,0 +1,6 @@
+
+Menu name   =Name displayed in the startup menu
+File path   =/path/to/root/notefolder
+File format =file format Ex. =.txt
+Program     =program you want to use for reading the file. Ex. =xed
+
